@@ -1,0 +1,11 @@
+<!--pages/about/about.wxml-->
+<view class="container">
+  <view class="about">
+    <text>产品名称:记账本</text>
+    <text>版本号：{{v}}</text>
+    <text>开发时间:2018.1.1</text>
+    </view>
+  <view class="aboutme">
+    <text class="title">作者：jrtech</text>
+  </view>
+</view>
